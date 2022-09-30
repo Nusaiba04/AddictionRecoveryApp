@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/drawable/circle.xml" value="0.196" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/activity_dashboard.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/activity_hobbies.xml" value="0.1" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/activity_lifestyle.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/activity_lifestyle_details.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/findsupport.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/fragment_cooking.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/fragment_martial_arts.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/fragment_music.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/fragment_sober.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/fragment_writing.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/grid_view_item.xml" value="0.1" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/homepage.xml" value="0.2" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/journal.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/preference.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/progress.xml" value="0.33" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/signup.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Sneha/AndroidStudioProjects/Me-The 1975/London/London/app/src/main/res/layout/single_item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
