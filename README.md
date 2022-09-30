@@ -12,13 +12,13 @@ Submitted To:
 Sufi Aurangzeb Hossain
 
 Group Members:
-       Rushali Sharif Uddin 					    011201144
+       Rushali Sharif Uddin 			         011201144
        Nusaiba Zaman Manifa			     	 	  011201155
-       Abtahi Ahmed					              011202247
+       Abtahi Ahmed					         011202247
 
 
 
-Sir, we are really sorry we couldn’t upload the project on GitHub. We really tried learning GitHub for 3 hours today, but we couldn’t get the hang of it. Our computer had some issues while we were trying to upload in GitHub. The push operation wasn’t working. We really hope that you accept our submission on Google Drive or in LMS.
+(Sir, we are really sorry we couldn’t upload the project on GitHub. We really tried learning GitHub for 3 hours today, but we couldn’t get the hang of it. Our computer had some issues while we were trying to upload in GitHub. The push operation wasn’t working. We really hope that you accept our submission. We compiled all of our parts and only one of us uploaded the whole project to GitHub.)
 
 Login Page:
 We have created a login page which takes user details and logs them in if the user is recorded in the SQLite Database. The user can use the app after logging in every time. The login process is completed after pressing the login button.
@@ -55,6 +55,7 @@ Below, we have shown the UI for the four activities. For ‘Hobbies’, we have 
 Settings:
 In Settings, the user can also change the theme here ( light or dark ), and Shared Preference has been used to remember the theme, so when the user exits the app and comes back, the same theme will stay.
 
+(We have included the screenshots of the app pages in the drive link with app description.)
 
 
 
